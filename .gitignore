@@ -1,0 +1,22 @@
+# Credenciales y tokens
+google_credentials.json
+google_token.json
+github_token.txt
+.env
+*.pem
+*.key
+*.token
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
