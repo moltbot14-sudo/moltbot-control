@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01-elevar-permisos",
+    "titulo": "Elevar permisos de OpenClaw con sudo sin contraseña",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "02-conectar-tailscale",
+    "titulo": "Instalar y conectar ambos Ubuntu a Tailscale",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "03-ssh-cruzado",
+    "titulo": "Configurar SSH cruzado entre ambos PCs",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "04-control-openclaw",
+    "titulo": "Permitir que cada OpenClaw controle el otro PC",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "05-app-movil",
+    "titulo": "Instalar app móvil PWA con luces, progreso, logs e historial",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "06-automejora-24-7",
+    "titulo": "Activar automejora continua 24/7",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "07-drive-gmail-github",
+    "titulo": "Conectar Drive, Gmail y GitHub con moltbot14@gmail.com",
+    "estado": "pendiente",
+    "prioridad": "alta"
+  },
+  {
+    "id": "08-skills",
+    "titulo": "Buscar skills útiles para mejorar mucho el sistema",
+    "estado": "pendiente",
+    "prioridad": "media"
+  }
+]
